@@ -1,5 +1,8 @@
 ## How to run
 
+Media source - OBS Software 
+- set up a custom streaming source and stream key
+
 1. Install Docker
 2. `docker-compose build`
 3. `docker-compose up`
